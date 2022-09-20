@@ -1,7 +1,13 @@
-# node express - api server
+node + express - api server
 
-npm init
-npm i express cors
+# DEV install :node express - api server
+
+- npm init
+
+- install express + cors
+  npm i express cors
+
+# using API
 
 http://localhost:8080/api/post
 https://jsonplaceholder.typicode.com/users
